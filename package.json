@@ -1,0 +1,15 @@
+{
+  "name": "bassfloyd-page",
+  "version": "1.0.0",
+  "description": "Página sobre mi proyecto personal como bajista",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
